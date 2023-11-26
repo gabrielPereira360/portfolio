@@ -140,6 +140,10 @@ body{
     font-weight: 400;
 }
 
+.rodape__paragrafo{
+    font-size: 1.8rem;
+}
+
 @media (max-width: 1300px){
 
     .cabecalho{
