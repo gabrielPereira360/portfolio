@@ -144,11 +144,16 @@ body{
 
     .cabecalho{
         padding: 10%;
-        
     }
 
     .cabecalho__menu{
+        gap: 40px;
         justify-content: center;
+    }
+
+    .cabecalho__menu__link{
+       font-size: 1.2rem;
+       text-align: center;
     }
 
     .apresentacao{
