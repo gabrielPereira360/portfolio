@@ -143,12 +143,13 @@ body{
 @media (max-width: 1300px){
 
     .cabecalho{
-        padding: 10%;
+        padding: 10% 5%;
     }
 
     .cabecalho__menu{
         gap: 40px;
         justify-content: center;
+        align-items: center;
     }
 
     .cabecalho__menu__link{
@@ -157,12 +158,45 @@ body{
     }
 
     .apresentacao{
-        padding: 5%;
+        padding: 6%;
         align-items: center;
         flex-direction: column-reverse;
+        gap: 30px
     }
 
     .apresentacao__conteudo{
         width: auto;
+    }
+
+    .apresentacao__conteudo__titulo {
+        font-size: 2rem;
+    }
+    
+    .apresentacao__links__subtitulo{
+        font-size: 1rem;
+    }
+
+    
+    .apresentacao_conteudo_paragrafo{
+        font-size: 1.3rem;
+    }
+
+    .apresentacao__links{
+        padding: 0 0 10% 0;    
+    }
+
+
+    .apresentacao__links__botao{
+        align-items: center;
+        width: auto;
+        font-size: 1.2rem;
+    }
+    .apresentacao__links__imagem{
+        width: 10%;
+        height: 10%;
+    }
+
+    .rodape__paragrafo{
+        font-size: 1rem;
     }
 }
