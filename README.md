@@ -14,4 +14,6 @@
 
 ### Gabriel Pereira
 
+## Link da prévia: https://bit.ly/portfolioggmp
+
 ### Linkedin: https://www.linkedin.com/in/gabriel-martins2003/
